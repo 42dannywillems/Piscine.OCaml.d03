@@ -1,9 +1,9 @@
 # Piscine.OCaml.d03
 
-The day03 is focused on trees (bstree, avltree, binary tree) and
+The day03 is focused on trees (binary search trees, AVL-trees, binary trees) and
 compilation methods.
 
-We implement binary tree, binary search tree and AVL-trees. We are free to use
+We implement binary trees, binary search trees and AVL-trees. We are free to use
 how we want to build our executables: Makefile (with or without
 [https://github.com/mmottl/ocaml-makefile](OCamlMakefile), ocamlfind. We can
 choose which compilers (ocamlc or ocamlopt) we want to use.
