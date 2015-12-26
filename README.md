@@ -1,5 +1,8 @@
 # Piscine.OCaml.d03
 
+**I didn't some exercices because I want to focus on the language OCaml, and not
+data structures**
+
 The day03 is focused on trees (binary search trees, AVL-trees, binary trees) and
 compilation methods.
 
